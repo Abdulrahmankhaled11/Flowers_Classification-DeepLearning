@@ -7,3 +7,5 @@
  ### So , I used Transfer Leaning to achieve high performance .
 
 - #### I used MobilNet model developed by Google and it achieved high performance compared to CNN
+- 
+<div style="width:100%;text-align: center; background-color:#6B1376;"> <img align=middle src="https://github.com/Abdulrahmankhaled11/Flowers_Classification-DeepLearning/blob/main/flowers.jpeg" width="700px" height="300px">
